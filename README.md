@@ -160,3 +160,4 @@ Loyiha Vercel platformasiga hech qanday qo'shimcha konfiguratsiyasiz to'g'ridan-
 ## 📄 Litsenziya
 
 Loyiha [MIT](LICENSE) litsenziyasi ostida taqdim etiladi.
+
