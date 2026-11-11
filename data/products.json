@@ -1,0 +1,785 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Apple iPhone 15 Pro Max 256GB Natural Titanium",
+    "slug": "apple-iphone-15-pro-max-256gb",
+    "category": "Smartfonlar",
+    "categorySlug": "smartfonlar",
+    "price": 15890000,
+    "oldPrice": 17200000,
+    "discountPercentage": 8,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": true,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "stock": 14,
+    "badge": "Xit savdo",
+    "description": "Apple iPhone 15 Pro Max — aviatsiya darajasidagi titan korpus, eng kuchli A17 Pro chipi va 5 karra optik yaqinlashtirishga ega professional kamera tizimi. Type-C porti va moslashtiriladigan Action tugmasi bilan jihozlangan.",
+    "images": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Natural Titanium", "Blue Titanium", "Black Titanium", "White Titanium"],
+    "specs": {
+      "Ekran": "6.7 dyuym, Super Retina XDR OLED, 120Hz ProMotion",
+      "Doimiy xotira": "256 GB",
+      "Operativ xotira": "8 GB",
+      "Protsessor": "Apple A17 Pro (3 nm)",
+      "Asosiy kamera": "48 MP + 12 MP + 12 MP (5x optik zoom)",
+      "Old kamera": "12 MP TrueDepth",
+      "Akkumulyator": "4422 mA/soat, 29 soat video tomosha qilish",
+      "Operatsion tizim": "iOS 17",
+      "Kafolat": "1 yil rasmiy servis kafolati"
+    }
+  },
+  {
+    "id": "prod-2",
+    "name": "Samsung Galaxy S24 Ultra 12/512GB Titanium Gray",
+    "slug": "samsung-galaxy-s24-ultra-512gb",
+    "category": "Smartfonlar",
+    "categorySlug": "smartfonlar",
+    "price": 16450000,
+    "oldPrice": 18200000,
+    "discountPercentage": 10,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": true,
+    "rating": 4.9,
+    "reviewsCount": 94,
+    "stock": 9,
+    "badge": "Yangi Galaxy AI",
+    "description": "Samsung Galaxy S24 Ultra — sun'iy intellekt (Galaxy AI) imkoniyatlariga to'la flagman. 200 MP kamera, o'rnatilgan S-Pen ruchkasi, tekis ekran va yaltiramaydigan Gorilla Armor himoyasi.",
+    "images": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Titanium Gray", "Titanium Black", "Titanium Violet", "Titanium Yellow"],
+    "specs": {
+      "Ekran": "6.8 dyuym Dynamic AMOLED 2X, QHD+, 120Hz, 2600 nit",
+      "Doimiy xotira": "512 GB UFS 4.0",
+      "Operativ xotira": "12 GB LPDDR5X",
+      "Protsessor": "Snapdragon 8 Gen 3 for Galaxy (4 nm)",
+      "Asosiy kamera": "200 MP + 50 MP (5x) + 10 MP (3x) + 12 MP",
+      "Old kamera": "12 MP Dual Pixel AF",
+      "Akkumulyator": "5000 mA/soat, 45W tezkor quvvatlash",
+      "Qo'shimcha": "S-Pen stilus, IP68 himoya, Galaxy AI",
+      "Kafolat": "1 yil rasmiy servis kafolati"
+    }
+  },
+  {
+    "id": "prod-3",
+    "name": "Xiaomi 14 Pro 16/512GB Black",
+    "slug": "xiaomi-14-pro-512gb",
+    "category": "Smartfonlar",
+    "categorySlug": "smartfonlar",
+    "price": 9950000,
+    "oldPrice": 11300000,
+    "discountPercentage": 12,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": true,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "stock": 18,
+    "badge": "Leica kamera",
+    "description": "Xiaomi 14 Pro — professional Leica optikasi, o'ta yorqin 3000 nit displey va giper-tez 120W zaryadlanish tizimi. Xiaomi HyperOS bilan yangi tajriba.",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Silver", "Jade Green"],
+    "specs": {
+      "Ekran": "6.73 dyuym LTPO AMOLED, 120Hz, 3000 nit",
+      "Doimiy xotira": "512 GB",
+      "Operativ xotira": "16 GB",
+      "Protsessor": "Snapdragon 8 Gen 3",
+      "Kamera": "50 MP Leica Summilux uchlik kamera",
+      "Akkumulyator": "4880 mA/soat, 120W HyperCharge",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-4",
+    "name": "Samsung Galaxy A55 5G 8/256GB Awesome Navy",
+    "slug": "samsung-galaxy-a55-256gb",
+    "category": "Smartfonlar",
+    "categorySlug": "smartfonlar",
+    "price": 4650000,
+    "oldPrice": 5100000,
+    "discountPercentage": 9,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.7,
+    "reviewsCount": 87,
+    "stock": 31,
+    "badge": "Ommabop",
+    "description": "Samsung Galaxy A55 5G metall korpus, zamonaviy dizayn, o'ta tiniq Super AMOLED ekran va mustahkam batareya bilan O'zbekistonda eng xaridorgir o'rta toifadagi smartfon.",
+    "images": [
+      "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Awesome Navy", "Awesome Iceblue", "Awesome Lilac"],
+    "specs": {
+      "Ekran": "6.6 dyuym Super AMOLED, 120Hz, FHD+",
+      "Doimiy xotira": "256 GB",
+      "Operativ xotira": "8 GB",
+      "Protsessor": "Exynos 1480 (4 nm)",
+      "Asosiy kamera": "50 MP OIS + 12 MP + 5 MP",
+      "Akkumulyator": "5000 mA/soat",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-5",
+    "name": "Apple MacBook Air 13 M3 8/256GB Midnight",
+    "slug": "apple-macbook-air-13-m3",
+    "category": "Noutbuklar",
+    "categorySlug": "noutbuklar",
+    "price": 14200000,
+    "oldPrice": 15500000,
+    "discountPercentage": 8,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": true,
+    "rating": 4.9,
+    "reviewsCount": 63,
+    "stock": 11,
+    "badge": "M3 Chip",
+    "description": "Apple MacBook Air 13 dyuym M3 — yengil va ixcham dizayn, butun kun yetadigan batareya (18 soatgacha) va yangi avlod M3 chipi. Shovqinsiz sovutish tizimi va Liquid Retina displey.",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Midnight", "Starlight", "Space Gray", "Silver"],
+    "specs": {
+      "Ekran": "13.6 dyuym Liquid Retina, 2560x1664",
+      "Protsessor": "Apple M3 (8 yadroli CPU, 8 yadroli GPU)",
+      "Operativ xotira": "8 GB birlashgan xotira",
+      "SSD xotira": "256 GB",
+      "Avtonomiya": "18 soatgacha",
+      "Og'irligi": "1.24 kg",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-6",
+    "name": "Apple MacBook Pro 16 M3 Max 36/512GB Space Black",
+    "slug": "apple-macbook-pro-16-m3-max",
+    "category": "Noutbuklar",
+    "categorySlug": "noutbuklar",
+    "price": 38900000,
+    "oldPrice": 42000000,
+    "discountPercentage": 7,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": true,
+    "rating": 5.0,
+    "reviewsCount": 27,
+    "stock": 5,
+    "badge": "Pro Level",
+    "description": "Eng talabchan dasturchilar, video montajchilar va dizaynerlar uchun mo'ljallangan qudratli noutbuk. M3 Max chipi, Liquid Retina XDR displey va 22 soatgacha batareya quvvati.",
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Space Black", "Silver"],
+    "specs": {
+      "Ekran": "16.2 dyuym Liquid Retina XDR, 3456x2234, 120Hz ProMotion",
+      "Protsessor": "Apple M3 Max (14 yadroli CPU, 30 yadroli GPU)",
+      "Operativ xotira": "36 GB birlashgan xotira",
+      "SSD xotira": "512 GB",
+      "Portlar": "HDMI, SDXC slot, 3x Thunderbolt 4, MagSafe 3",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-7",
+    "name": "Lenovo Legion Pro 5 16IRX8 Core i7-13700HX RTX 4060 16/1TB",
+    "slug": "lenovo-legion-pro-5-rtx4060",
+    "category": "Noutbuklar",
+    "categorySlug": "noutbuklar",
+    "price": 17800000,
+    "oldPrice": 19500000,
+    "discountPercentage": 9,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 51,
+    "stock": 8,
+    "badge": "Gaming",
+    "description": "O'yinlar va 3D modellashtirish uchun quvvatli Lenovo Legion Pro 5. 165Hz chastotali WQXGA ekrani va kuchli sovutish tizimi bilan uzluksiz barqarorlik ta'minlanadi.",
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Onyx Grey"],
+    "specs": {
+      "Ekran": "16 dyuym WQXGA (2560x1600) IPS 165Hz",
+      "Protsessor": "Intel Core i7-13700HX (16 yadro, 24 potok)",
+      "Videokarta": "NVIDIA GeForce RTX 4060 8GB GDDR6 (140W)",
+      "Operativ xotira": "16 GB DDR5 4800MHz",
+      "SSD xotira": "1 TB NVMe M.2",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-8",
+    "name": "ASUS Zenbook 14 OLED UX3405 Intel Core Ultra 7 16/1TB",
+    "slug": "asus-zenbook-14-oled-ultra7",
+    "category": "Noutbuklar",
+    "categorySlug": "noutbuklar",
+    "price": 14900000,
+    "oldPrice": 16200000,
+    "discountPercentage": 8,
+    "isDiscounted": false,
+    "isFeatured": false,
+    "isNew": true,
+    "rating": 4.8,
+    "reviewsCount": 19,
+    "stock": 12,
+    "badge": "OLED Displey",
+    "description": "ASUS Zenbook 14 OLED — sun'iy intellekt tezlatgichiga ega Intel Core Ultra 7 protsessori, 3K 120Hz OLED ekrani va 1.2 kg li premium metall korpus bilan har tomonlama qulay ultra-buk.",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Ponder Blue", "Foggy Silver"],
+    "specs": {
+      "Ekran": "14 dyuym 3K (2880x1800) OLED, 120Hz, 100% DCI-P3",
+      "Protsessor": "Intel Core Ultra 7 155H",
+      "Operativ xotira": "16 GB LPDDR5X",
+      "SSD xotira": "1 TB PCIe 4.0",
+      "Og'irligi": "1.2 kg",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-9",
+    "name": "Apple iPad Air 11 M2 128GB Wi-Fi Space Gray",
+    "slug": "apple-ipad-air-11-m2-128gb",
+    "category": "Planshetlar",
+    "categorySlug": "planshetlar",
+    "price": 8200000,
+    "oldPrice": 8900000,
+    "discountPercentage": 8,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": true,
+    "rating": 4.9,
+    "reviewsCount": 38,
+    "stock": 16,
+    "badge": "Yangi M2",
+    "description": "Yangi Apple iPad Air M2 plansheti ish, o'qish va ijod uchun mukammal vosita. Apple Pencil Pro qo'llab-quvvatlashi va landshaft old kamerasi bilan.",
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Space Gray", "Blue", "Purple", "Starlight"],
+    "specs": {
+      "Ekran": "11 dyuym Liquid Retina, True Tone",
+      "Protsessor": "Apple M2",
+      "Xotira": "128 GB",
+      "Kameralar": "12 MP asosiy / 12 MP ultra-keng old kamera",
+      "Ulanish": "Wi-Fi 6E, Bluetooth 5.3",
+      "Aksessuarlar": "Apple Pencil Pro va Magic Keyboard qo'llab-quvvatlaydi",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-10",
+    "name": "Samsung Galaxy Tab S9 Ultra 12/256GB 5G Graphite",
+    "slug": "samsung-galaxy-tab-s9-ultra-5g",
+    "category": "Planshetlar",
+    "categorySlug": "planshetlar",
+    "price": 14700000,
+    "oldPrice": 16500000,
+    "discountPercentage": 11,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 24,
+    "stock": 7,
+    "badge": "14.6 dyuym",
+    "description": "Ulkan 14.6 dyuymli Dynamic AMOLED 2X displey, suv va changdan IP68 himoya, to'plamdagi S-Pen va noutbuk o'rnini bosuvchi Samsung DeX rejimi.",
+    "images": [
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Graphite", "Beige"],
+    "specs": {
+      "Ekran": "14.6 dyuym Dynamic AMOLED 2X, 120Hz",
+      "Protsessor": "Snapdragon 8 Gen 2 for Galaxy",
+      "Doimiy xotira": "256 GB + microSD 1TB gacha",
+      "Operativ xotira": "12 GB",
+      "Akkumulyator": "11200 mA/soat, 45W",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-11",
+    "name": "Xiaomi Pad 6 8/256GB Gravity Gray",
+    "slug": "xiaomi-pad-6-256gb",
+    "category": "Planshetlar",
+    "categorySlug": "planshetlar",
+    "price": 3890000,
+    "oldPrice": 4400000,
+    "discountPercentage": 12,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.7,
+    "reviewsCount": 73,
+    "stock": 25,
+    "badge": "Eng yaxshi narx",
+    "description": "O'qish, kino ko'rish va kundalik vazifalar uchun eng ommabop planshet. 144Hz WQHD+ ekran, to'rtta Dolby Atmos dinamiklari va 8840 mA/soat quvvat.",
+    "images": [
+      "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Gravity Gray", "Gold", "Mist Blue"],
+    "specs": {
+      "Ekran": "11 dyuym IPS, 2880x1800, 144Hz",
+      "Protsessor": "Snapdragon 870",
+      "Operativ xotira": "8 GB LPDDR5",
+      "Doimiy xotira": "256 GB UFS 3.1",
+      "Akkumulyator": "8840 mA/soat, 33W",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-12",
+    "name": "Apple AirPods Pro (2-avlod) Type-C MagSafe",
+    "slug": "apple-airpods-pro-2-type-c",
+    "category": "Quloqchinlar",
+    "categorySlug": "quloqchinlar",
+    "price": 3150000,
+    "oldPrice": 3600000,
+    "discountPercentage": 13,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 210,
+    "stock": 35,
+    "badge": "Top Savdo",
+    "description": "Apple AirPods Pro 2 — shovqinni 2 baravar kuchliroq bekor qiluvchi Active Noise Cancellation, moslashuvchan audio va Type-C quvvatlash korpusi bilan.",
+    "images": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["White"],
+    "specs": {
+      "Chip": "Apple H2 quloqchinda, U1 zaryadlash qutisida",
+      "Shovqinni bostirish": "Faol shovqin bekor qilish (ANC) + Shaffoflik",
+      "Avtonomiya": "6 soatgacha bir zaryadda, quti bilan 30 soatgacha",
+      "Himoya": "IP54 chang va namlikdan himoya",
+      "Port": "USB Type-C va MagSafe simsiz quvvatlash",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-13",
+    "name": "Sony WH-1000XM5 Wireless Noise Cancelling Black",
+    "slug": "sony-wh-1000xm5-black",
+    "category": "Quloqchinlar",
+    "categorySlug": "quloqchinlar",
+    "price": 4450000,
+    "oldPrice": 4900000,
+    "discountPercentage": 9,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 85,
+    "stock": 14,
+    "badge": "Premium Ovoz",
+    "description": "Sony flagman simsiz quloqchini. Dunyodagi eng ilg'or shovqinni bostirish texnologiyasi, Hi-Res audio sifati va 30 soatlik uzoq ish vaqti.",
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Silver", "Midnight Blue"],
+    "specs": {
+      "Turi": "Quloqni to'liq qoplovchi simsiz minigarnitura",
+      "Shovqinni bostirish": "Auto NC Optimizer bilan 8 ta mikrofon",
+      "Kodeklar": "LDAC, AAC, SBC",
+      "Avtonomiya": "30 soatgacha (ANC yoqilganda)",
+      "Tezkor quvvatlash": "3 daqiqada 3 soatlik musiqa",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-14",
+    "name": "Marshall Major IV Wireless Bluetooth Black",
+    "slug": "marshall-major-iv-black",
+    "category": "Quloqchinlar",
+    "categorySlug": "quloqchinlar",
+    "price": 1850000,
+    "oldPrice": 2100000,
+    "discountPercentage": 12,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 114,
+    "stock": 20,
+    "badge": "80+ soat quvvat",
+    "description": "Afsonaviy Marshall brendining klassik dizaynga ega naushniklari. Bir quvvatlanishda 80 soatdan ortiq uzluksiz o'ynash va qulay ko'p funksiyali joystik boshqaruvi.",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Brown"],
+    "specs": {
+      "Avtonomiya": "80+ soat simsiz musiqa tinglash",
+      "Quvvatlash": "Simsiz Qi quvvatlash va Type-C",
+      "Og'irligi": "165 gramm",
+      "Dinamiklar": "40 mm maxsus sozlangan drayverlar",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-15",
+    "name": "Apple Watch Series 9 GPS 45mm Midnight Aluminum",
+    "slug": "apple-watch-series-9-45mm",
+    "category": "Soatlar",
+    "categorySlug": "soatlar",
+    "price": 5400000,
+    "oldPrice": 6100000,
+    "discountPercentage": 11,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 77,
+    "stock": 19,
+    "badge": "Double Tap",
+    "description": "Apple Watch Series 9 yangi qudratli S9 SiP chipi, qo'l tegmasdan boshqarish uchun Double Tap imo-ishorasi va 2000 nitgacha yorqinlikka ega displey bilan jihozlangan.",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Midnight", "Starlight", "Silver", "Pink", "Product(RED)"],
+    "specs": {
+      "Displey": "Always-On Retina OLED, 2000 nit",
+      "Protsessor": "Apple S9 SiP 64-bit 2 yadroli",
+      "Sensorlar": "EKG, qondagi kislorod, tana harorati, yurak urishi",
+      "Xususiyatlar": "Double Tap ishorasi, avariya aniqlash",
+      "Suvga chidamlilik": "50 metrgacha (WR50)",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-16",
+    "name": "Samsung Galaxy Watch 6 Classic 47mm Black",
+    "slug": "samsung-galaxy-watch-6-classic-47mm",
+    "category": "Soatlar",
+    "categorySlug": "soatlar",
+    "price": 4200000,
+    "oldPrice": 4700000,
+    "discountPercentage": 11,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 49,
+    "stock": 13,
+    "badge": "Aylanuvchi bezel",
+    "description": "Klassik soatlar uslubidagi aylanuvchi fizik bezel, yupqaroq ramkali safir shisha ekran, yurak va uyqu sifatini chuqur tahlil qiluvchi datchiklar to'plami.",
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Silver"],
+    "specs": {
+      "Ekran": "1.5 dyuym Super AMOLED, Safir shisha",
+      "Korpus": "Zanglamaydigan po'lat, aylanuvchi bezel",
+      "Operatsion tizim": "Wear OS Powered by Samsung",
+      "Salomatlik monitoringi": "EKG, qon bosimi, BIA tahlili, uyqu murabbiyi",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-17",
+    "name": "Xiaomi Smart Band 8 Pro Black",
+    "slug": "xiaomi-smart-band-8-pro",
+    "category": "Soatlar",
+    "categorySlug": "soatlar",
+    "price": 850000,
+    "oldPrice": 990000,
+    "discountPercentage": 14,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": true,
+    "rating": 4.7,
+    "reviewsCount": 162,
+    "stock": 45,
+    "badge": "Eng arzon",
+    "description": "Katta 1.74 dyuymli AMOLED displey, ichki GPS moduli, 150 dan ortiq sport rejimlari va 14 kungacha yetadigan batareya.",
+    "images": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Silver Light Gray"],
+    "specs": {
+      "Ekran": "1.74 dyuym AMOLED, 60Hz, 600 nit",
+      "Joylashuv": "Ichki GNSS (GPS, GLONASS, Galileo, QZSS)",
+      "Avtonomiya": "14 kungacha oddiy rejimda",
+      "Suv himoyasi": "5 ATM",
+      "Kafolat": "6 oy rasmiy"
+    }
+  },
+  {
+    "id": "prod-18",
+    "name": "Baseus GaN5 Pro 65W Fast Charger Type-C + USB Black",
+    "slug": "baseus-gan5-pro-65w-charger",
+    "category": "Aksessuarlar",
+    "categorySlug": "aksessuarlar",
+    "price": 320000,
+    "oldPrice": 380000,
+    "discountPercentage": 16,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 312,
+    "stock": 60,
+    "badge": "Top Aksessuar",
+    "description": "Eng so'nggi GaN5 texnologiyasi bilan ixcham o'lchamdagi 65W tezkor quvvatlagich. Noutbuk, planshet va smartfonni bir vaqtda xavfsiz quvvatlaydi.",
+    "images": [
+      "https://images.unsplash.com/photo-1622445268045-885741b07671?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "White"],
+    "specs": {
+      "Quvvat": "65W maks (Power Delivery 3.0 / Quick Charge 4+)",
+      "Portlar": "2x USB Type-C, 1x USB-A",
+      "Moslik": "MacBook, iPhone, Samsung, Xiaomi va boshqalar",
+      "Himoya": "BPS II ortiqcha qizish va kuchlanishdan himoya",
+      "Kafolat": "6 oy rasmiy"
+    }
+  },
+  {
+    "id": "prod-19",
+    "name": "Anker MagGo Power Bank 10000mAh Qi2 MagSafe White",
+    "slug": "anker-maggo-power-bank-10000mah",
+    "category": "Aksessuarlar",
+    "categorySlug": "aksessuarlar",
+    "price": 890000,
+    "oldPrice": 1050000,
+    "discountPercentage": 15,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": true,
+    "rating": 4.9,
+    "reviewsCount": 44,
+    "stock": 22,
+    "badge": "Qi2 15W MagSafe",
+    "description": "Anker MagGo eng yangi Qi2 sertifikatiga ega bo'lib, iPhone smartfonlarini simsiz 15W tezlikda quvvatlaydi. Smart ekranda qolgan quvvat foizi va vaqti ko'rinadi.",
+    "images": [
+      "https://images.unsplash.com/photo-1609592424364-750d5171e7c9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["White", "Black"],
+    "specs": {
+      "Sig'im": "10 000 mA/soat",
+      "Simsiz quvvat": "15W Ultra-Fast Qi2",
+      "Simli quvvat": "27W USB-C ikki tomonlama",
+      "Ekran": "Aqlli raqamli batareya ko'rsatkichi",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-20",
+    "name": "Logitech MX Master 3S Wireless Performance Mouse Graphite",
+    "slug": "logitech-mx-master-3s-graphite",
+    "category": "Aksessuarlar",
+    "categorySlug": "aksessuarlar",
+    "price": 1450000,
+    "oldPrice": 1650000,
+    "discountPercentage": 12,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": false,
+    "rating": 5.0,
+    "reviewsCount": 180,
+    "stock": 17,
+    "badge": "Master Series",
+    "description": "Professional dasturchilar va dizaynerlar uchun eng qulay sichqoncha. Sekundiga 1000 qator aylantiruvchi MagSpeed g'ildiragi va sokin (Quiet Click) tugmalar.",
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Graphite", "Pale Grey"],
+    "specs": {
+      "Sensor": "8000 DPI Darkfield (har qanday shishada ishlaydi)",
+      "Ulanish": "Bluetooth Low Energy va Logi Bolt USB",
+      "Qurilmalar soni": "Bir vaqtning o'zida 3 tagacha (Logi Flow)",
+      "Avtonomiya": "70 kungacha to'liq quvvat bilan",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-21",
+    "name": "Dyson V15 Detect Extra Simli Bo'lmagan Changyutgich",
+    "slug": "dyson-v15-detect-extra",
+    "category": "Maishiy texnika",
+    "categorySlug": "maishiy-texnika",
+    "price": 11500000,
+    "oldPrice": 12900000,
+    "discountPercentage": 11,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 56,
+    "stock": 6,
+    "badge": "Premium Tozalik",
+    "description": "Lazerli yoritish tizimi ko'zga ko'rinmas changlarni aniqlaydi. Akustik piezo-sensor chang miqdorini o'lchab, so'rish kuchini avtomatik oshiradi.",
+    "images": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Nickel / Yellow"],
+    "specs": {
+      "So'rish quvvati": "240 aVt Hyperdymium motor",
+      "Ishlash vaqti": "60 daqiqagacha simsiz tozalash",
+      "Filtrlash darajasi": "99.99% zarrachalarni tutib qoluvchi HEPA",
+      "Ekran": "Real vaqtda chang miqdori va ish vaqti ko'rsatkichi",
+      "Kafolat": "2 yil rasmiy kafolat"
+    }
+  },
+  {
+    "id": "prod-22",
+    "name": "Xiaomi Robot Vacuum S10+ Aqlli Changyutgich Oq",
+    "slug": "xiaomi-robot-vacuum-s10-plus",
+    "category": "Maishiy texnika",
+    "categorySlug": "maishiy-texnika",
+    "price": 4200000,
+    "oldPrice": 4700000,
+    "discountPercentage": 11,
+    "isDiscounted": false,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 89,
+    "stock": 15,
+    "badge": "Aqlli Uy",
+    "description": "Ikki aylanuvchi nam tozalash disklari, 4000 Pa kuchli so'rish va 3D to'siqlarni aylanib o'tuvchi LDS lazer navigatsiyasi.",
+    "images": [
+      "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["White"],
+    "specs": {
+      "So'rish quvvati": "4000 Pa",
+      "Tozalash turi": "Quruq va nam tozalash birgalikda",
+      "Navigatsiya": "LDS Lazer navigatsiya + 3D sensorlar",
+      "Akkumulyator": "5200 mA/soat (200 m² gacha xona)",
+      "Boshqaruv": "Mi Home ilovasi orqali smartfoningizda",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-23",
+    "name": "DeLonghi Magnifica S ECAM 22.110.B Avtomatik Qahva Mashinasi",
+    "slug": "delonghi-magnifica-s-ecam",
+    "category": "Maishiy texnika",
+    "categorySlug": "maishiy-texnika",
+    "price": 6300000,
+    "oldPrice": 7200000,
+    "discountPercentage": 13,
+    "isDiscounted": true,
+    "isFeatured": true,
+    "isNew": false,
+    "rating": 4.9,
+    "reviewsCount": 72,
+    "stock": 10,
+    "badge": "Italyan Qahvasi",
+    "description": "Italiyaning yetakchi brendidan donali va maydalangan kofedan espresso, kapuchino va amerikano tayyorlovchi ishonchli avtomat qahva mashinasi.",
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Black", "Silver"],
+    "specs": {
+      "Bosim": "15 bar",
+      "Donli qahva idishi": "250 gramm, 13 darajali maydalash",
+      "Suv idishi sig'imi": "1.8 litr",
+      "Kapuchinator": "Qo'lda quyuq sut ko'pigi tayyorlash tizimi",
+      "Kafolat": "2 yil rasmiy kafolat"
+    }
+  },
+  {
+    "id": "prod-24",
+    "name": "Philips Series 2000i Aqlli Havo Tozalagich AC2887",
+    "slug": "philips-series-2000i-ac2887",
+    "category": "Maishiy texnika",
+    "categorySlug": "maishiy-texnika",
+    "price": 3600000,
+    "oldPrice": 4100000,
+    "discountPercentage": 12,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 35,
+    "stock": 11,
+    "badge": "Toza Havo",
+    "description": "Toshkent va shahar sharoitidagi chang, PM2.5 zarrachalari, allergen va hidlarni 99.97% tozalovchi NanoProtect HEPA filtrlash tizimi.",
+    "images": [
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["White"],
+    "specs": {
+      "Xona maydoni": "79 m² gacha xonalar uchun",
+      "Tozalash tezligi (CADR)": "333 m³/soat",
+      "Filtrlar": "Dastlabki filtr + Faollashtirilgan uglerod + NanoProtect HEPA",
+      "Sensor": "AeraSense PM2.5 raqamli ko'rsatkich va rangli halqa",
+      "Kafolat": "2 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-25",
+    "name": "Apple Magic Keyboard with Touch ID for Mac",
+    "slug": "apple-magic-keyboard-touch-id",
+    "category": "Aksessuarlar",
+    "categorySlug": "aksessuarlar",
+    "price": 2400000,
+    "oldPrice": 2700000,
+    "discountPercentage": 11,
+    "isDiscounted": false,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.8,
+    "reviewsCount": 65,
+    "stock": 18,
+    "badge": "Touch ID",
+    "description": "Mac foydalanuvchilari uchun tezkor va xavfsiz autentifikatsiya imkonini beruvchi Touch ID datchikli, nozik va ergonomik klaviatura.",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Silver White", "Space Black"],
+    "specs": {
+      "Ulanish": "Bluetooth va Lightning / Type-C simli",
+      "Xususiyat": "O'rnatilgan Touch ID barmoq izi skaneri",
+      "Avtonomiya": "1 oydan ortiq bir zaryadda",
+      "Kafolat": "1 yil rasmiy"
+    }
+  },
+  {
+    "id": "prod-26",
+    "name": "Samsung Galaxy Buds 2 Pro Graphite",
+    "slug": "samsung-galaxy-buds-2-pro",
+    "category": "Quloqchinlar",
+    "categorySlug": "quloqchinlar",
+    "price": 2100000,
+    "oldPrice": 2450000,
+    "discountPercentage": 14,
+    "isDiscounted": true,
+    "isFeatured": false,
+    "isNew": false,
+    "rating": 4.7,
+    "reviewsCount": 98,
+    "stock": 28,
+    "badge": "Hi-Fi 24bit",
+    "description": "24-bitli Hi-Fi audio, 3 ta yuqori SNR mikrofonli intellektual ANC va quloqqa juda qulay o'tiruvchi ixcham korpus.",
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "colors": ["Graphite", "White", "Bora Purple"],
+    "specs": {
+      "Ovoz": "24bit Hi-Fi audio, 360 Audio Dolby Atmos",
+      "Shovqin bostirish": "Intelligent ANC suhbat detektori bilan",
+      "Himoya": "IPX7 suvga chidamlilik",
+      "Kafolat": "1 yil rasmiy"
+    }
+  }
+]
